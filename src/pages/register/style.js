@@ -14,6 +14,7 @@ export const Container = styled.main`
 
 export const Column = styled.div`
     flex: 1;
+    margin: 50px;
 `
 
 export const Title = styled.p`
@@ -72,4 +73,9 @@ export const Row = styled.div`
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
+`
+export const ErrorText = styled.p`
+    color: #FF0000;
+    font-size:12px;
+    margin: 10px 0;
 `

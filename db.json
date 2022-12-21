@@ -1,6 +1,58 @@
 {
-    "users": [
-      { "id": 1, "name": "Pablo", "email": "pablo@email.com", "senha":"123456" },
-      { "id": 2, "name": "José", "email": "jose@email.com", "senha":"123456" }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Pablo",
+      "email": "pablo@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "name": "José",
+      "email": "jose@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 3,
+      "name": "jaime",
+      "email": "jaime@email.com",
+      "senha": "12345"
+    },
+    {
+      "name": "paulo",
+      "email": "paulo@email.com",
+      "senha": "12345",
+      "id": 4
+    },
+    {
+      "name": "pedro",
+      "email": "pedro@email.com",
+      "senha": "12345",
+      "id": 5
+    },
+    {
+      "name": "felipe",
+      "email": "felipe@email.com",
+      "senha": "paulinhalinda",
+      "id": 6
+    },
+    {
+      "name": "Paula",
+      "email": "paula@email.com",
+      "senha": "soulinda",
+      "id": 7
+    },
+    {
+      "name": "Margarida",
+      "email": "margarida@email.com",
+      "senha": "1234567",
+      "id": 8
+    },
+    {
+      "name": "Margarida",
+      "email": "margarida@email.com",
+      "senha": "1234567",
+      "id": 9
+    }
+  ]
 }
