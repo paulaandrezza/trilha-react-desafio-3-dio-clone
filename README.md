@@ -1,36 +1,46 @@
-Biblioteca utilizada [react](https://pt-br.reactjs.org/)
+<h1 align="center"> DIO Clone </h1>
 
+<p align="center">
+Projeto desenvolvido como desafio do bootcamp Orange Tech da DIO.
+</p>
 
-Para inicializar com a biblioteca react:
-npx create-react-app (nome da pasta)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-Inicializar projeto no browser
-npm run start
+<br>
 
-Para criar a navegação foi utilizado o [react router](https://v5.reactrouter.com/) | [Configurações do react-router](https://v5.reactrouter.com/web/guides/quick-start)
+<p align="center">
+  <img alt="nlw-10-copa" src="./public/Untitled.png" width="100%">
+</p>
 
-Instalar react router
-yarn add react-router-dom
+## 🚀 Tecnologias
 
-Iniciar
-yarn start
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[Styled Componentes](https://styled-components.com/) => biblioteca que possibilita escrever códigos CSS dentro do JavaScript | [Instalação](https://styled-components.com/docs/basics#installation)
+- HTML e CSS
+- JavaScript
+- [React](https://pt-br.reactjs.org/)
+- [React Router](https://v5.reactrouter.com/)
+- [Styled Componentes](https://styled-components.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Json Server](https://www.npmjs.com/package/json-server)
 
+## 💻 Projeto
 
-"rfc" atalho react para montar componente:
-<div>import React from 'react'
+Esse projeto tem como objetivo criar um clone das telas de home, login, cadastro e feed da plataforma DIO.
 
-export default function index() {
-  return (
-    <div>index</div>
-  )
-}</div>
+## 🔖 Layout
 
-[React Icons](https://react-icons.github.io/react-icons/)
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fvjQQNtqaUdpuNixvCZVav/DIO-CLONE?node-id=1%3A2&t=BOjyln0UWN7ajlrg-0/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Validações utilizando [React Hook Form](https://react-hook-form.com/)
+<br>
 
-Para trabalhar com requisições utilizamos o [Axios](https://axios-http.com/ptbr/docs/intro)
+---
 
-Para criar uma api fake utilizamos o [Json Server](https://www.npmjs.com/package/json-server)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
