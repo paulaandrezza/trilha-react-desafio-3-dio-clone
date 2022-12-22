@@ -13,7 +13,7 @@ Projeto desenvolvido como desafio do bootcamp Orange Tech da DIO.
 <br>
 
 <p align="center">
-  <img alt="nlw-10-copa" src="./public/Untitled.png" width="100%">
+  <img alt="dio-clone" src="./public/Untitled.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
